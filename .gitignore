@@ -1,0 +1,7 @@
+# Ignore compiled C programs and build artifacts
+*.exe
+*.out
+*.o
+/bin/
+/build/
+*.swp
